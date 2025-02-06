@@ -1,3 +1,4 @@
+-- note that I have wrote multiple queries to handle same problem
 -- MAKING SURE WE ARE ON THE RIGHT DATABASE
 USE world_layoffs;
 
